@@ -22,3 +22,12 @@ theme:
 
 ## 后续计划
 尝试使用 MkDocs 为我其他的技术文档（如SSH配置指南）构建一个完整的文档中心。
+
+## 仓库信息
+- 远程仓库别名：`origin`
+  （git@github.com:Helen115111/mkdocs-notes.git）
+- 远程分支信息：
+ origin/HEAD -> origin/main
+  origin/gh-pages
+  origin/main
+- 本地分支：`main`
