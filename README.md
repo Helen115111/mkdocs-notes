@@ -1,6 +1,7 @@
 # MkDocs Learning Project
 这是一个我用于学习和实践MkDocs静态站点生成器的项目仓库。
 ## 学习目的
+<<<<<<< HEAD
 掌握 MkDocs 的使用有助于：
 - **理解现代文档流程**：从本地编写到在线部署的完整工作流。
 - **构建项目作品集**：未来可以为我的技术文档项目创建专业的展示网站。
@@ -31,3 +32,5 @@ theme:
   origin/gh-pages
   origin/main
 - 本地分支：`main`
+=======
+>>>>>>> f06828bb9a7ecfd27530af8c21275f6fa9cf0bed
