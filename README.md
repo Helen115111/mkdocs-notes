@@ -32,5 +32,3 @@ theme:
   origin/gh-pages
   origin/main
 - 本地分支：`main`
-=======
->>>>>>> f06828bb9a7ecfd27530af8c21275f6fa9cf0bed
